@@ -1,0 +1,204 @@
+[
+  {
+    "id": "ecommerce",
+    "title": "E-Commerce Dashboard",
+    "category": "website",
+    "categoryDisplay": "Website",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=E-Commerce+Dashboard",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Dashboard+Home",
+      "https://placehold.co/800x600/0f172a/38bdf8?text=Analytics+View",
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Product+Manager"
+    ],
+    "desc": "Dashboard admin yang komprehensif untuk bisnis e-commerce modern. Platform ini memungkinkan administrator melacak penjualan real-time, mengelola inventaris, dan menganalisis perilaku pelanggan.",
+    "features": [
+      "Pelacakan penjualan Real-time dengan Chart.js",
+      "Sistem manajemen inventaris",
+      "Mode Gelap/Terang",
+      "Layout responsif untuk mobile"
+    ],
+    "tech": [
+      "React",
+      "Tailwind CSS",
+      "Node.js"
+    ],
+    "icons": [
+      "fa-brands fa-react",
+      "fa-brands fa-node",
+      "fa-brands fa-css3-alt"
+    ],
+    "demoLink": "https://example.com/ecommerce",
+    "repoLink": "https://github.com/username/ecommerce"
+  },
+  {
+    "id": "fittrack",
+    "title": "FitTrack Pro",
+    "category": "ios",
+    "categoryDisplay": "iOS App",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=FitTrack+Pro",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=FitTrack+Home",
+      "https://placehold.co/800x600/0f172a/38bdf8?text=Workout+Summary"
+    ],
+    "desc": "Aplikasi iOS native yang dirancang untuk membantu pengguna mencapai target kebugaran mereka. Menggunakan HealthKit Apple untuk sinkronisasi otomatis langkah dan aktivitas.",
+    "features": [
+      "Integrasi HealthKit",
+      "Pembuat rutinitas latihan kustom",
+      "Fitur berbagi ke sosial media",
+      "Mode Offline"
+    ],
+    "tech": [
+      "Swift",
+      "SwiftUI",
+      "CoreData"
+    ],
+    "icons": [
+      "fa-brands fa-swift",
+      "fa-brands fa-apple"
+    ],
+    "demoLink": "https://apps.apple.com/app/id123456",
+    "repoLink": "https://github.com/username/fittrack"
+  },
+  {
+    "id": "space",
+    "title": "Space Voyager 3D",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Space+Voyager",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Gameplay+Action",
+      "https://placehold.co/800x600/0f172a/38bdf8?text=Main+Menu"
+    ],
+    "desc": "Game endless runner 3D yang imersif berlatar di nebula yang dibuat secara prosedural. Pemain mengemudikan pesawat ruang angkasa melalui ladang asteroid yang berbahaya.",
+    "features": [
+      "Level procedural generation",
+      "Kontrol penerbangan berbasis fisika",
+      "Sistem leaderboard global",
+      "Pencahayaan dinamis"
+    ],
+    "tech": [
+      "Unity 3D",
+      "C#",
+      "Blender"
+    ],
+    "icons": [
+      "fa-brands fa-unity",
+      "fa-solid fa-gamepad"
+    ],
+    "demoLink": "https://itch.io/space-voyager",
+    "repoLink": "https://github.com/username/space-voyager"
+  },
+  {
+    "id": "social",
+    "title": "Social Connect",
+    "category": "website",
+    "categoryDisplay": "Website",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Connect",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Social+Feed"
+    ],
+    "desc": "Platform media sosial modern yang dibangun untuk menghubungkan para pengembang. Fitur termasuk pesan real-time menggunakan WebSockets dan syntax highlighting.",
+    "features": [
+      "Pesan Real-time (Socket.io)",
+      "Integrasi GitHub API",
+      "Syntax highlighting blok kode",
+      "Autentikasi User"
+    ],
+    "tech": [
+      "React",
+      "Redux",
+      "MongoDB"
+    ],
+    "icons": [
+      "fa-brands fa-react",
+      "fa-solid fa-database"
+    ],
+    "demoLink": "https://social-connect-demo.com",
+    "repoLink": "https://github.com/username/social-connect"
+  },
+  {
+    "id": "taskmaster",
+    "title": "TaskMaster",
+    "category": "ios",
+    "categoryDisplay": "iOS App",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=TaskMaster",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Task+List"
+    ],
+    "desc": "TaskMaster menciptakan kembali daftar tugas dengan pengingat berbasis lokasi. Pengguna dapat mengatur tugas untuk memicu saat mereka tiba di lokasi tertentu.",
+    "features": [
+      "Geofencing & Layanan Lokasi",
+      "Penyortiran tugas prioritas",
+      "Sinkronisasi iCloud",
+      "Widget Interaktif"
+    ],
+    "tech": [
+      "Swift",
+      "UIKit",
+      "CloudKit"
+    ],
+    "icons": [
+      "fa-brands fa-swift",
+      "fa-solid fa-map-location-dot"
+    ],
+    "demoLink": "https://apps.apple.com/app/id654321",
+    "repoLink": "https://github.com/username/taskmaster"
+  },
+  {
+    "id": "photo-collection",
+    "title": "Urban Perspective",
+    "category": "non-tech",
+    "categoryDisplay": "Photography",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Urban+Photography",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Street+View",
+      "https://placehold.co/800x600/0f172a/38bdf8?text=Architecture"
+    ],
+    "desc": "A collection of street photography capturing the essence of urban life in Tokyo. Focusing on light, shadow, and human interaction within concrete jungles.",
+    "features": [
+      "High-resolution prints available",
+      "Featured in 'City Life' magazine",
+      "Award-winning composition",
+      "Black & White series"
+    ],
+    "tech": [
+      "Sony Alpha A7III",
+      "Lightroom",
+      "Photoshop"
+    ],
+    "icons": [
+      "fa-solid fa-camera",
+      "fa-solid fa-image"
+    ],
+    "demoLink": "https://instagram.com",
+    "repoLink": ""
+  },
+  {
+    "id": "writing-blog",
+    "title": "Tech & Life Blog",
+    "category": "non-tech",
+    "categoryDisplay": "Writing",
+    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Tech+Blog",
+    "images": [
+      "https://placehold.co/800x600/1e293b/38bdf8?text=Article+Header"
+    ],
+    "desc": "A personal blog exploring the intersection of technology and daily life. Articles range from coding tutorials to philosophical essays on AI ethics.",
+    "features": [
+      "Weekly newsletter",
+      "Guest interviews",
+      "Tutorial series",
+      "Community discussions"
+    ],
+    "tech": [
+      "Ghost CMS",
+      "Markdown",
+      "SEO"
+    ],
+    "icons": [
+      "fa-solid fa-pen-nib",
+      "fa-solid fa-newspaper"
+    ],
+    "demoLink": "https://medium.com",
+    "repoLink": ""
+  }
+]
