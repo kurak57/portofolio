@@ -1,80 +1,49 @@
 [
   {
-    "id": "ecommerce",
-    "title": "E-Commerce Dashboard",
-    "category": "website",
-    "categoryDisplay": "Website",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=E-Commerce+Dashboard",
-    "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Dashboard+Home",
-      "https://placehold.co/800x600/0f172a/38bdf8?text=Analytics+View",
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Product+Manager"
-    ],
-    "desc": "Dashboard admin yang komprehensif untuk bisnis e-commerce modern. Platform ini memungkinkan administrator melacak penjualan real-time, mengelola inventaris, dan menganalisis perilaku pelanggan.",
-    "features": [
-      "Pelacakan penjualan Real-time dengan Chart.js",
-      "Sistem manajemen inventaris",
-      "Mode Gelap/Terang",
-      "Layout responsif untuk mobile"
-    ],
-    "tech": [
-      "React",
-      "Tailwind CSS",
-      "Node.js"
-    ],
-    "icons": [
-      "fa-brands fa-react",
-      "fa-brands fa-node",
-      "fa-brands fa-css3-alt"
-    ],
-    "demoLink": "https://example.com/ecommerce",
-    "repoLink": "https://github.com/username/ecommerce"
-  },
-  {
-    "id": "fittrack",
-    "title": "FitTrack Pro",
-    "category": "ios",
-    "categoryDisplay": "iOS App",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=FitTrack+Pro",
-    "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=FitTrack+Home",
-      "https://placehold.co/800x600/0f172a/38bdf8?text=Workout+Summary"
-    ],
-    "desc": "Aplikasi iOS native yang dirancang untuk membantu pengguna mencapai target kebugaran mereka. Menggunakan HealthKit Apple untuk sinkronisasi otomatis langkah dan aktivitas.",
-    "features": [
-      "Integrasi HealthKit",
-      "Pembuat rutinitas latihan kustom",
-      "Fitur berbagi ke sosial media",
-      "Mode Offline"
-    ],
-    "tech": [
-      "Swift",
-      "SwiftUI",
-      "CoreData"
-    ],
-    "icons": [
-      "fa-brands fa-swift",
-      "fa-brands fa-apple"
-    ],
-    "demoLink": "https://apps.apple.com/app/id123456",
-    "repoLink": "https://github.com/username/fittrack"
-  },
-  {
-    "id": "space",
-    "title": "Space Voyager 3D",
+    "id": "kopling",
+    "title": "Kopling",
     "category": "game",
     "categoryDisplay": "Game",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Space+Voyager",
+    "thumbImage": "Images/Projects/Kopling/Cover.png",
     "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Gameplay+Action",
-      "https://placehold.co/800x600/0f172a/38bdf8?text=Main+Menu"
+      "Images/Projects/Kopling/menu.png",
+      "Images/Projects/Kopling/gameplay1.png",
+      "Images/Projects/Kopling/gameplay2.png",
+      "Images/Projects/Kopling/gameplay3.png",
+      "Images/Projects/Kopling/gameplay4.png"
     ],
-    "desc": "Game endless runner 3D yang imersif berlatar di nebula yang dibuat secara prosedural. Pemain mengemudikan pesawat ruang angkasa melalui ladang asteroid yang berbahaya.",
+    "desc": "Kopling is a simulation game where you play as a street-side coffee seller. With a cozy-driven narrative like Coffe-Talk, but in a chaotic city. In this game, you will serve drinks and chat with customers while uncovering what happened in the city",
     "features": [
-      "Level procedural generation",
-      "Kontrol penerbangan berbasis fisika",
-      "Sistem leaderboard global",
-      "Pencahayaan dinamis"
+      "Serve drinks",
+      "Narrative-driven game",
+      "Branching storyline"
+    ],
+    "tech": [
+      "Unity 2D",
+      "C#"
+    ],
+    "icons": [
+      "fa-brands fa-unity",
+      "fa-solid fa-gamepad"
+    ],
+    "demoLink": "https://empat-mata-studio.itch.io/kopling-stories-in-a-cup",
+    "repoLink": "https://github.com/GedeKW/ProjectStarling"
+  },
+  {
+    "id": "airlove",
+    "title": "AirLove",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "Images/Projects/AirLove/Cover.png",
+    "images": [
+      "Images/Projects/AirLove/menu.png",
+      "Images/Projects/AirLove/gameplay1.png",
+      "Images/Projects/AirLove/gameplay2.png",
+      "Images/Projects/AirLove/gameplay4.png"
+    ],
+    "desc": "AirLove is a cooperative game where players take on the role of an elderly couple searching for lost memories. In this game, players work together to control a flying house, retrieve letters, and fight off enemies",
+    "features": [
+      "Cooperative game"
     ],
     "tech": [
       "Unity 3D",
@@ -85,71 +54,75 @@
       "fa-brands fa-unity",
       "fa-solid fa-gamepad"
     ],
-    "demoLink": "https://itch.io/space-voyager",
-    "repoLink": "https://github.com/username/space-voyager"
+    "demoLink": "",
+    "repoLink": "https://github.com/kurak57/AirLove"
   },
   {
-    "id": "social",
-    "title": "Social Connect",
-    "category": "website",
-    "categoryDisplay": "Website",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Social+Connect",
+    "id": "eternal",
+    "title": "Eternal Sea of Indonesia",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "Images/Projects/Eternal/cover.png",
     "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Social+Feed"
+      "Images/Projects/Eternal/gameplay1.png",
+      "Images/Projects/Eternal/gameplay2.png",
+      "Images/Projects/Eternal/gameplay3.png",
+      "Images/Projects/Eternal/gameplay4.png",
+      "Images/Projects/Eternal/gameplay5.png"
     ],
-    "desc": "Platform media sosial modern yang dibangun untuk menghubungkan para pengembang. Fitur termasuk pesan real-time menggunakan WebSockets dan syntax highlighting.",
+    "desc": "Eternal Sea of Indonesia will bring you to the era of Nusantara back then where you can met lots of glorious people such as kings, prince, and even colonialist!",
     "features": [
-      "Pesan Real-time (Socket.io)",
-      "Integrasi GitHub API",
-      "Syntax highlighting blok kode",
-      "Autentikasi User"
+      "Explore various kind of things",
+      "Quest System",
+      "Leveling System"
     ],
     "tech": [
-      "React",
-      "Redux",
-      "MongoDB"
+      "Roblox Studio",
+      "Lua",
+      "Blender"
     ],
     "icons": [
-      "fa-brands fa-react",
-      "fa-solid fa-database"
+      "fa-brands fa-roblox",
+      "fa-solid fa-gamepad"
     ],
-    "demoLink": "https://social-connect-demo.com",
-    "repoLink": "https://github.com/username/social-connect"
+    "demoLink": "https://www.roblox.com/games/11384893473/Eternal-Sea-of-Indonesia#!/about",
+    "repoLink": ""
   },
   {
-    "id": "taskmaster",
-    "title": "TaskMaster",
+    "id": "pushy",
+    "title": "Pu.shy",
     "category": "ios",
     "categoryDisplay": "iOS App",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=TaskMaster",
+    "thumbImage": "Images/Projects/Pushy/Cover.png",
     "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Task+List"
+      "Images/Projects/Pushy/ss1.jpg",
+      "Images/Projects/Pushy/ss2.jpg"
     ],
-    "desc": "TaskMaster menciptakan kembali daftar tugas dengan pengingat berbasis lokasi. Pengguna dapat mengatur tugas untuk memicu saat mereka tiba di lokasi tertentu.",
+    "desc": "Pushy, a beginner-friendly iOS app that uses real-time pose estimation to evaluate weightlifting form and provide instant feedback.",
     "features": [
-      "Geofencing & Layanan Lokasi",
-      "Penyortiran tugas prioritas",
-      "Sinkronisasi iCloud",
-      "Widget Interaktif"
+      "Tracks user movements",
+      "Detects incorrect form using a lightweight ML model",
+      "Provides real-time visual and audio feedback "
     ],
     "tech": [
       "Swift",
-      "UIKit",
-      "CloudKit"
+      "SwiftUI",
+      "CoreData",
+      "CoreML"
     ],
     "icons": [
       "fa-brands fa-swift",
-      "fa-solid fa-map-location-dot"
+      "fa-brands fa-apple"
     ],
-    "demoLink": "https://apps.apple.com/app/id654321",
-    "repoLink": "https://github.com/username/taskmaster"
+    "demoLink": "",
+    "repoLink": "https://github.com/kurak57/Pushy"
   },
   {
-    "id": "photo-collection",
-    "title": "Urban Perspective",
+    "id": "amv",
+    "title": "AMV Dadada Tenshi by Amatsuka Uto",
     "category": "non-tech",
-    "categoryDisplay": "Photography",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Urban+Photography",
+    "categoryDisplay": "Video",
+    "thumbImage": "Images/Projects/AMV/Cover.webp",
     "images": [
       "https://placehold.co/800x600/1e293b/38bdf8?text=Street+View",
       "https://placehold.co/800x600/0f172a/38bdf8?text=Architecture"
@@ -162,43 +135,15 @@
       "Black & White series"
     ],
     "tech": [
-      "Sony Alpha A7III",
-      "Lightroom",
+      "Vegas Pro",
+      "Ibis PaintX",
       "Photoshop"
     ],
     "icons": [
       "fa-solid fa-camera",
       "fa-solid fa-image"
     ],
-    "demoLink": "https://instagram.com",
-    "repoLink": ""
-  },
-  {
-    "id": "writing-blog",
-    "title": "Tech & Life Blog",
-    "category": "non-tech",
-    "categoryDisplay": "Writing",
-    "thumbImage": "https://placehold.co/600x400/1e293b/38bdf8?text=Tech+Blog",
-    "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Article+Header"
-    ],
-    "desc": "A personal blog exploring the intersection of technology and daily life. Articles range from coding tutorials to philosophical essays on AI ethics.",
-    "features": [
-      "Weekly newsletter",
-      "Guest interviews",
-      "Tutorial series",
-      "Community discussions"
-    ],
-    "tech": [
-      "Ghost CMS",
-      "Markdown",
-      "SEO"
-    ],
-    "icons": [
-      "fa-solid fa-pen-nib",
-      "fa-solid fa-newspaper"
-    ],
-    "demoLink": "https://medium.com",
+    "demoLink": "https://youtu.be/8rVrpu5e1ak?si=iZe5NMyPQrDz7pKS",
     "repoLink": ""
   }
 ]
