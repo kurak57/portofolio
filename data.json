@@ -1,7 +1,7 @@
 [
   {
     "id": "kopling",
-    "title": "Kopling",
+    "title": "Kopling: Stories in a cup",
     "category": "game",
     "categoryDisplay": "Game",
     "thumbImage": "Images/Projects/Kopling/Cover.png",
@@ -12,14 +12,14 @@
       "Images/Projects/Kopling/gameplay3.png",
       "Images/Projects/Kopling/gameplay4.png"
     ],
-    "desc": "Kopling is a simulation game where you play as a street-side coffee seller. With a cozy-driven narrative like Coffe-Talk, but in a chaotic city. In this game, you will serve drinks and chat with customers while uncovering what happened in the city",
+    "desc": "Kopling is a narrative-based simulation game in which players take on the role of a street-side coffee seller. After completing an order, players are presented with dialogue choices, where each decision and specific event can influence the storyline and determine the game's ending.",
     "features": [
-      "Serve drinks",
-      "Narrative-driven game",
-      "Branching storyline"
+      "Serve drinks based on customer requests",
+      "Dialogue system and branching storyline",
+      "Multiple game endings"
     ],
     "tech": [
-      "Unity 2D",
+      "Unity",
       "C#"
     ],
     "icons": [
@@ -31,7 +31,7 @@
   },
   {
     "id": "airlove",
-    "title": "AirLove",
+    "title": "AIRLOVE",
     "category": "game",
     "categoryDisplay": "Game",
     "thumbImage": "Images/Projects/AirLove/Cover.png",
@@ -41,20 +41,21 @@
       "Images/Projects/AirLove/gameplay2.png",
       "Images/Projects/AirLove/gameplay4.png"
     ],
-    "desc": "AirLove is a cooperative game where players take on the role of an elderly couple searching for lost memories. In this game, players work together to control a flying house, retrieve letters, and fight off enemies",
+    "desc": "A cooperative adventure game inspired by Lovers in a Dangerous Spacetime. Players take on the role of a pair of lovers who fly their house into the sky to reclaim lost words of love, operating various mechanisms such as altitude control, letter-catching tools, and weapons.",
     "features": [
-      "Cooperative game"
+      "Cooperative multiplayer game",
+      "Multiple ship mechanics and mechanisms",
+      "Dynamic obstacle and enemy handling"
     ],
     "tech": [
-      "Unity 3D",
-      "C#",
-      "Blender"
+      "Unity",
+      "C#"
     ],
     "icons": [
       "fa-brands fa-unity",
       "fa-solid fa-gamepad"
     ],
-    "demoLink": "",
+    "demoLink": "https://kurak57.itch.io/airlove",
     "repoLink": "https://github.com/kurak57/AirLove"
   },
   {
@@ -70,22 +71,21 @@
       "Images/Projects/Eternal/gameplay4.png",
       "Images/Projects/Eternal/gameplay5.png"
     ],
-    "desc": "Eternal Sea of Indonesia will bring you to the era of Nusantara back then where you can met lots of glorious people such as kings, prince, and even colonialist!",
+    "desc": "A game project within Roblox aimed at implementing learning outcomes in the program 'Metaverse 3D World Creation and Commercialization'. This game focuses on educational themes to teach Indonesian history to children in a fun way while playing. It is designed as an open-world type.",
     "features": [
-      "Explore various kind of things",
-      "Quest System",
+      "Open-world exploration",
+      "Educational missions from every existing island",
       "Leveling System"
     ],
     "tech": [
       "Roblox Studio",
-      "Lua",
-      "Blender"
+      "Lua Language"
     ],
     "icons": [
       "fa-brands fa-roblox",
       "fa-solid fa-gamepad"
     ],
-    "demoLink": "https://www.roblox.com/games/11384893473/Eternal-Sea-of-Indonesia#!/about",
+    "demoLink": "https://www.roblox.com/games/11384893473/Eternal-Sea-of-Indonesia",
     "repoLink": ""
   },
   {
@@ -102,7 +102,7 @@
     "features": [
       "Tracks user movements",
       "Detects incorrect form using a lightweight ML model",
-      "Provides real-time visual and audio feedback "
+      "Provides real-time visual and audio feedback"
     ],
     "tech": [
       "Swift",
@@ -119,31 +119,138 @@
   },
   {
     "id": "amv",
-    "title": "AMV Dadada Tenshi by Amatsuka Uto",
+    "title": "Music Video Animation (Fan Made)",
     "category": "non-tech",
     "categoryDisplay": "Video",
     "thumbImage": "Images/Projects/AMV/Cover.webp",
     "images": [
-      "https://placehold.co/800x600/1e293b/38bdf8?text=Street+View",
-      "https://placehold.co/800x600/0f172a/38bdf8?text=Architecture"
+      "Images/Projects/AMV/ss1.jpg",
+      "Images/Projects/AMV/ss2.jpg"
     ],
-    "desc": "A collection of street photography capturing the essence of urban life in Tokyo. Focusing on light, shadow, and human interaction within concrete jungles.",
+    "desc": "A fan-made animated music video made for a Vtuber on Youtube, using a cover song titled 'Dadada Tenshi' sung by Amatsuka Uto. Drawn from scratch and edited frame-by-frame.",
     "features": [
-      "High-resolution prints available",
-      "Featured in 'City Life' magazine",
-      "Award-winning composition",
-      "Black & White series"
+      "2D Character Art",
+      "Frame-by-frame Animation",
+      "Video Editing"
     ],
     "tech": [
       "Vegas Pro",
-      "Ibis PaintX",
+      "Ibis Paint X",
       "Photoshop"
     ],
     "icons": [
-      "fa-solid fa-camera",
+      "fa-solid fa-video",
       "fa-solid fa-image"
     ],
-    "demoLink": "https://youtu.be/8rVrpu5e1ak?si=iZe5NMyPQrDz7pKS",
+    "demoLink": "https://youtu.be/8rVrpu5elak?si=MVp7OHERuB1Vhivc",
+    "repoLink": ""
+  },
+  {
+    "id": "piraterun",
+    "title": "PirateRun",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "Images/Projects/PirateRun/Cover.png",
+    "images": [
+      "Images/Projects/PirateRun/ss1.png",
+      "Images/Projects/PirateRun/ss2.png"
+    ],
+    "desc": "PirateRun is a 3D endless runner game where players control a pirate crew running across a bridge. The game features a time-based system, dynamic difficulty, procedural generation, and power-up effects.",
+    "features": [
+      "Procedural platform generation",
+      "Time-based checkpoint system",
+      "Dynamic difficulty scaling",
+      "Dependency Injection architecture"
+    ],
+    "tech": [
+      "Unity",
+      "C#"
+    ],
+    "icons": [
+      "fa-brands fa-unity",
+      "fa-solid fa-gamepad"
+    ],
+    "demoLink": "https://kurak57.itch.io/piraterun",
+    "repoLink": "https://github.com/kurak57/endless-runner"
+  },
+  {
+    "id": "ballcher",
+    "title": "Ballcher",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "Images/Projects/Ballcher/Cover.png",
+    "images": [
+      "Images/Projects/Ballcher/ss1.png",
+      "Images/Projects/Ballcher/ss2.png"
+    ],
+    "desc": "A casual reflex-based game originally created for ScoreJam. Players catch falling balls using a catcher that must match the type of ball. The speed and variety of balls increase over time.",
+    "features": [
+      "Endless survival gameplay",
+      "Escalating speed and variety",
+      "Local leaderboard system using PlayerPrefs"
+    ],
+    "tech": [
+      "Unity",
+      "C#"
+    ],
+    "icons": [
+      "fa-brands fa-unity",
+      "fa-solid fa-gamepad"
+    ],
+    "demoLink": "https://kurak57.itch.io/ballcher",
+    "repoLink": "https://github.com/kurak57/Ballcher.git"
+  },
+  {
+    "id": "chandrasekhar",
+    "title": "Chandra Sekhar",
+    "category": "game",
+    "categoryDisplay": "Game",
+    "thumbImage": "Images/Projects/ChandraSekhar/Cover.png",
+    "images": [
+      "Images/Projects/ChandraSekhar/ss1.png",
+      "Images/Projects/ChandraSekhar/ss2.png"
+    ],
+    "desc": "Chandra Sekhar is an evasion game developed as a submission for EyeJam within a one-week development period. Players control the character Chandra to navigate outer space and avoid floating obstacles in search of Sekhar.",
+    "features": [
+      "Space evasion mechanics",
+      "Procedural obstacle generation",
+      "Endless survival"
+    ],
+    "tech": [
+      "Unity",
+      "C#"
+    ],
+    "icons": [
+      "fa-brands fa-unity",
+      "fa-solid fa-gamepad"
+    ],
+    "demoLink": "https://empat-mata-studio.itch.io/chandrasekhar",
+    "repoLink": "https://github.com/kurak57/chandra-sekar"
+  },
+  {
+    "id": "3dportfolio",
+    "title": "3D Portofolio",
+    "category": "non-tech",
+    "categoryDisplay": "3D Art",
+    "thumbImage": "Images/Projects/3DPortofolio/Cover.png",
+    "images": [
+      "Images/Projects/3DPortofolio/ss1.png",
+      "Images/Projects/3DPortofolio/ss2.png"
+    ],
+    "desc": "A collection of 3D projects created between 2020-2024, including custom models, animations, and rendered videos demonstrating capability in 3D production and asset creation.",
+    "features": [
+      "3D Modeling",
+      "3D Animation",
+      "Video Rendering"
+    ],
+    "tech": [
+      "Blender"
+    ],
+    "icons": [
+      "fa-solid fa-cube",
+      "fa-solid fa-image"
+    ],
+    "demoLink": "https://www.instagram.com/kurak57/",
     "repoLink": ""
   }
 ]

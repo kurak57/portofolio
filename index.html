@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevPortfolio | Tech Showcase</title>
+    <title>Tomi Timutius | Tech Showcase</title>
+    <link rel="icon" type="image/png" href="favicon.png">
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome -->
@@ -361,18 +362,16 @@
 
             // Links
             const demoBtn = document.getElementById('detail-demo-link');
-            const demoText = document.getElementById('detail-demo-text');
-            document.getElementById('detail-code-link').href = data.repoLink || "#";
+            const codeBtn = document.getElementById('detail-code-link');
+            
+            codeBtn.href = data.repoLink || "#";
             demoBtn.href = data.demoLink || "#";
 
             if (data.category === "game") {
-                demoText.innerText = "Play Now";
                 demoBtn.innerHTML = `<i class="fa-solid fa-gamepad mr-2"></i> Play Now`;
             } else if (data.category === "ios") {
-                demoText.innerText = "Download on App Store";
                 demoBtn.innerHTML = `<i class="fa-brands fa-app-store-ios mr-2"></i> Download App`;
             } else {
-                demoText.innerText = "View Live Demo";
                 demoBtn.innerHTML = `<i class="fa-solid fa-arrow-up-right-from-square mr-2"></i> View Live Demo`;
             }
 
